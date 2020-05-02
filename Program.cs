@@ -8,6 +8,8 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World2789!");
             Console.WriteLine("Hello World2!");
+            Console.WriteLine("Hello World3!");
+            Console.WriteLine("Hello World2020!");
         }
     }
 }
